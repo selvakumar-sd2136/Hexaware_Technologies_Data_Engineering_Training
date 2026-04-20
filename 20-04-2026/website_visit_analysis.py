@@ -1,3 +1,4 @@
+# E-Commerce Capstone Project
 # Task 1
 with open("website_visits.txt","r") as file:
     visits=[line.strip() for line in file]
