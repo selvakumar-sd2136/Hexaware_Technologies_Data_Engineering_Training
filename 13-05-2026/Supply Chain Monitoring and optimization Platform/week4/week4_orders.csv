@@ -1,0 +1,6 @@
+order_id,supplier_id,product_name,delay_days,is_delayed
+101,1,Laptop,19,1
+102,2,Mouse,5,0
+103,1,Keyboard,10,1
+104,3,Monitor,2,0
+105,2,CPU,15,1
