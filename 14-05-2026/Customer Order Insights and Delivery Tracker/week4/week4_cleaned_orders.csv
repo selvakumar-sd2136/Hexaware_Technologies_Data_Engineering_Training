@@ -1,0 +1,10 @@
+order_id,customer_id,customer_name,region,product_name,order_date,delivery_date,delivery_days,delayed,status
+101,1,Selva,South,Laptop,2026-05-01,2026-05-10,9,1,Delivered
+102,1,Selva,South,Mouse,2026-05-03,2026-05-05,2,0,Delivered
+103,2,Arun,North,Keyboard,2026-05-02,2026-05-12,10,1,Delayed
+104,3,Priya,West,Mobile,2026-05-04,2026-05-06,2,0,Delivered
+105,4,Divya,East,Tablet,2026-05-05,2026-05-15,10,1,Delayed
+106,5,Kumar,South,Monitor,2026-05-06,2026-05-08,2,0,Delivered
+107,6,Ravi,North,Printer,2026-05-07,2026-05-20,13,1,Delayed
+108,7,Anu,West,Speaker,2026-05-08,2026-05-09,1,0,Delivered
+109,8,Vijay,East,Camera,2026-05-09,2026-05-18,9,1,Delaye
