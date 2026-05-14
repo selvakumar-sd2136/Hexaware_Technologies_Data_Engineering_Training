@@ -1,0 +1,10 @@
+customer_id,customer_name,region,product_name,order_date,delivery_date,status,issue
+1,Selva,South,Laptop,2026-05-01,2026-05-10,Delivered,Late Delivery
+1,Selva,South,Mouse,2026-05-03,2026-05-05,Delivered,None
+2,Arun,North,Keyboard,2026-05-02,2026-05-12,Delayed,Late Delivery
+3,Priya,West,Mobile,2026-05-04,2026-05-06,Delivered,None
+4,Divya,East,Tablet,2026-05-05,2026-05-15,Delayed,Damaged Package
+5,Kumar,South,Monitor,2026-05-06,2026-05-08,Delivered,None
+6,Ravi,North,Printer,2026-05-07,2026-05-20,Delayed,Wrong Address
+7,Anu,West,Speaker,2026-05-08,2026-05-09,Delivered,None
+8,Vijay,East,Camera,2026-05-09,,Delayed,Late Delivery
